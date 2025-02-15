@@ -1,0 +1,217 @@
+CxN Type,Number,P/H/R,Annotation Targets - Gold Standard Relation
+let-alone,1,Premi,"A ceasefire, let alone lasting peace, will take long negotiation."
+,1,hypothesis,"If a ceasefire is acheived through long negotiation, lasting peace will also be achieved."
+,1,relation,1 (neutral)
+let-alone,2,premise,"A ceasefire, let alone lasting peace, will take long negotiation."
+,2,hypothesis,Negotiating lasting peace will take less time than negotiating a ceasefire.
+,2,relation,2 (contradiction)
+let-alone,3,premise,"A ceasefire, let alone lasting peace, will take long negotiation."
+,3,hypothesis,"It will take long negotiation to achieve a ceasefire, and even longer negotiation to achieve lasting peace."
+,3,relation,0 (entailment)
+let-alone,19,premise,There must have been text books around at one time but I can not even identify any titles let alone suppliers.
+,19,hypothesis,"If I can identify titles of text books, I can also identify suppliers."
+,19,relation,1 (neutral)
+let-alone,20,premise,There must have been text books around at one time but I can not even identify any titles let alone suppliers.
+,20,hypothesis,It would be more difficult to identify titles than suppliers.
+,20,relation,2 (contradiction)
+let-alone,21,premise,There must have been text books around at one time but I can not even identify any titles let alone suppliers.
+,21,hypothesis,Titles of the textbooks would be easier to identify than suppliers
+,21,relation,0 (entailment)
+let-alone,28,premise,"Most of my friends haven't been outside Australia, let alone been all over the world."
+,28,hypothesis,"If my friends have been outside Australia, they have also been all over the world."
+,28,relation,1 (neutral)
+let-alone,29,premise,"Most of my friends haven't been outside Australia, let alone been all over the world."
+,29,hypothesis,Fewer of my friends have been outside Australia than those that have been all over the world.
+,29,relation,2 (contradiction)
+let-alone,30,premise,"Most of my friends haven't been outside Australia, let alone been all over the world."
+,30,hypothesis,It is less likely that most of my friends have been all over the world than that they have been outside Australia.
+,30,relation,0 (entailment)
+way-manner,52,premise,We picked out all of the best songs from the tapes and sang our way across the rest of Europe.
+,52,hypothesis,We picked out all of the best songs from the tapes and loudly sang our way across the rest of Europe.
+,52,relation,1 (neutral)
+way-manner,53,premise,We picked out all of the best songs from the tapes and sang our way across the rest of Europe.
+,53,hypothesis,We picked out all of the best songs from the tapes and traveled across the rest of Europe in silence.
+,53,relation,2 (contradiction)
+way-manner,54,premise,We picked out all of the best songs from the tapes and sang our way across the rest of Europe.
+,54,hypothesis,We picked out all of the best songs from the tapes and traveled across the rest of Europe in song.
+,54,relation,0 (entailment)
+way-manner,43,premise,If you type in the following program exactly as listed and run it you will see a fascinating pattern snake its way across your screen.
+,43,hypothesis,If you type in the following program exactly as listed and run it you will see a fascinating pattern move rapidly across the screen.
+,43,relation,1 (neutral)
+way-manner,44,premise,If you type in the following program exactly as listed and run it you will see a fascinating pattern snake its way across your screen.
+,44,hypothesis,If you type in the following program exactly as listed and run it you will see a fascinating pattern move across your screen without snaking.
+,44,relation,2 (contradiction)
+way-manner,45,premise,If you type in the following program exactly as listed and run it you will see a fascinating pattern snake its way across your screen.
+,45,hypothesis,If you type in the following program exactly as listed and run it you will see a fascinating pattern move across your screen by snaking.
+,45,relation,0 (entailment)
+way-manner,55,premise,"She was a big, bosomy woman who couldn't work without a box of biscuits on the desk beside her, and Sarella could hear her now, crunching her way through them."
+,55,hypothesis,"She was a big, bosomy woman who couldn’t work without a box of biscuits on the desk beside her, and Sarella could hear her eating them slowly."
+,55,relation,1 (neutral)
+way-manner,56,premise,"She was a big, bosomy woman who couldn't work without a box of biscuits on the desk beside her, and Sarella could hear her now, crunching her way through them."
+,56,hypothesis,"She was a big, bosomy woman who couldn't work without a box of biscuits on the desk beside her, and Sarella could hear her now, eating them without crunching."
+,56,relation,2 (contradiction)
+way-manner,57,premise,"She was a big, bosomy woman who couldn't work without a box of biscuits on the desk beside her, and Sarella could hear her now, crunching her way through them."
+,57,hypothesis,"She was a big, bosomy woman who couldn't work without a box of biscuits on the desk beside her, and Sarella could hear her now, eating them by crunching them."
+,57,relation,0 (entailment)
+resultative,118,premise,Terry PUSHED the door shut.
+,118,hypothesis,Terry closed the door with his side.
+,118,relation,1 (neutral)
+resultative,119,premise,Terry PUSHED the door shut.
+,119,hypothesis,The door was completely shut before Terry pushed it.
+,119,relation,2 (contradiction)
+resultative,120,premise,Terry PUSHED the door shut.
+,120,hypothesis,The door was at least partially open before Terry pushed it.
+,120,relation,0 (entailment)
+resultative,133,premise,Scrooge fell and knocked himself unconscious .
+,133,hypothesis,Scrooge was unconscious for several hours.
+,133,relation,1 (neutral)
+resultative,134,premise,Scrooge fell and knocked himself unconscious .
+,134,hypothesis,Scrooge was unconscious before he fell.
+,134,relation,2 (contradiction)
+resultative,135,premise,Scrooge fell and knocked himself unconscious .
+,135,hypothesis,Scrooge caused himself to become unconscious by falling.
+,135,relation,0 (entailment)
+resultative,148,premise,She KICKED the door open.
+,148,hypothesis,She needed to get into the house quickly.
+,148,relation,1 (neutral)
+resultative,149,premise,She KICKED the door open.
+,149,hypothesis,The door was fully open before she kicked.
+,149,relation,2 (contradiction)
+resultative,150,premise,She KICKED the door open.
+,150,hypothesis,The door was at least partially closed before she kicked it.
+,150,relation,0 (entailment)
+conative,166,premise,He looked down and poked at the keyboard.
+,166,hypothesis,He was typing on his computer.
+,166,relation,1 (neutral)
+conative,167,premise,He looked down and poked at the keyboard.
+,167,hypothesis,He looked down and poked in a direction away from the keyboard.
+,167,relation,2 (contradiction)
+conative,168,premise,He looked down and poked at the keyboard.
+,168,hypothesis,He looked down and made poking motions in the direction of the keyboard.
+,168,relation,0 (entailment)
+conative,169,premise,Mary Elizabeth jumped up and poked at the potatoes.
+,169,hypothesis,Mary Elizabeth was testing the softness of the potatoes.
+,169,relation,1 (neutral)
+conative,170,premise,Mary Elizabeth jumped up and poked at the potatoes.
+,170,hypothesis,Mary Elizabeth jumped up and poked in a direction opposite the potatoes.
+,170,relation,2 (contradiction)
+conative,171,premise,Mary Elizabeth jumped up and poked at the potatoes.
+,171,hypothesis,Mary maded at least one poking motion in the direction of the potatoes.
+,171,relation,0 (entailment)
+conative,217,premise,He raised his glass and sipped at the champagne with everyone else.
+,217,hypothesis,He toasted together with everyone using glasses of champagne.
+,217,relation,1 (neutral)
+conative,218,premise,He raised his glass and sipped at the champagne with everyone else.
+,218,hypothesis,The champagne was not the target of his sipping.
+,218,relation,2 (contradiction)
+conative,219,premise,He raised his glass and sipped at the champagne with everyone else.
+,219,hypothesis,The champagne was the target of his sipping.
+,219,relation,0 (entailment)
+intransitive-motion,310,premise,IRNA reported that Gomshadzehi killed a policeman and then ESCAPED to Dubai in the United Arab Emirates while trafficking drugs in 2003.
+,310,hypothesis,There is a well-known criminal named Gomshadzehi who easily escaped to Dubai while trafficking drugs in 2003.
+,310,relation,1 (neutral)
+intransitive-motion,311,premise,IRNA reported that Gomshadzehi killed a policeman and then ESCAPED to Dubai in the United Arab Emirates while trafficking drugs in 2003.
+,311,hypothesis,IRNA reported that Gomshadzehi killed a policeman and then remained in Dubai while trafficking drugs in 2003.
+,311,relation,2 (contradiction)
+intransitive-motion,312,premise,IRNA reported that Gomshadzehi killed a policeman and then ESCAPED to Dubai in the United Arab Emirates while trafficking drugs in 2003.
+,312,hypothesis,IRNA reported that Gomshadzehi killed a policeman and then changed locations to Dubai in the United Arab Emirates while trafficking drugs in 2003.
+,312,relation,0 (entailment)
+intransitive-motion,247,premise,In Cambodia several hundred people MARCHED through the capital Phnom Penh to appeal for an end to growing drug use.
+,247,hypothesis,In Cambodia several hundred people MARCHED through the capital to appeal for an end to prescription drug abuse.
+,247,relation,1 (neutral)
+intransitive-motion,248,premise,In Cambodia several hundred people MARCHED through the capital Phnom Penh to appeal for an end to growing drug use.
+,248,hypothesis,In Cambodia several hundred people marched in place in the capital of Phnon Penh to appeal for an end to growing drug use.
+,248,relation,2 (contradiction)
+intransitive-motion,249,premise,In Cambodia several hundred people MARCHED through the capital Phnom Penh to appeal for an end to growing drug use.
+,249,hypothesis,In Cambodia several hundred people changed locations through the capital Phnom Penh to appeal for an end to growing drug use.
+,249,relation,0 (entailment)
+intransitive-motion,250,premise,In VERY vivid detail I remember FALLING down the first flight of stairs in my house onto the landing in front of the main door.
+,250,hypothesis,"The speaker had great memory of events, but not great balance since they fell down the stairs like that."
+,250,relation,1 (neutral)
+intransitive-motion,251,premise,In VERY vivid detail I remember FALLING down the first flight of stairs in my house onto the landing in front of the main door.
+,251,hypothesis,In very vivid detail I remember not changing locations near the first flight of stairs in my house onto the landing in front of the main door.
+,251,relation,2 (contradiction)
+intransitive-motion,252,premise,In VERY vivid detail I remember FALLING down the first flight of stairs in my house onto the landing in front of the main door.
+,252,hypothesis,I changed locations to the landing in front of the main door.
+,252,relation,0 (entailment)
+caused-motion,316,premise,I THREW the stone across the river.
+,316,hypothesis,I like to skip stones across the river.
+,316,relation,1 (neutral)
+caused-motion,317,premise,I THREW the stone across the river.
+,317,hypothesis,The stone did not move.
+,317,relation,2 (contradiction)
+caused-motion,318,premise,I THREW the stone across the river.
+,318,hypothesis,I caused the stone to move across the river by throwing it.
+,318,relation,0 (entailment)
+caused-motion,331,premise,"At Claudia's request , Parker drove her to a motel for the night ."
+,331,hypothesis,Parker frequently drove her to motels.
+,331,relation,1 (neutral)
+caused-motion,332,premise,"At Claudia's request , Parker drove her to a motel for the night ."
+,332,hypothesis,Parker caused her to travel away from a motel by driving.
+,332,relation,2 (contradiction)
+caused-motion,333,premise,"At Claudia's request , Parker drove her to a motel for the night ."
+,333,hypothesis,Parker caused her to travel towards a hotel by driving.
+,333,relation,0 (entailment)
+caused-motion,349,premise,The Coast Guard also deployed a boat to the area and conducted an aerial survey of the site by helicopter .
+,349,hypothesis,The Coast Guard's aerial survey was easily completed by helicopter
+,349,relation,1 (neutral)
+caused-motion,350,premise,The Coast Guard also deployed a boat to the area and conducted an aerial survey of the site by helicopter .
+,350,hypothesis,A boat did not change locations.
+,350,relation,2 (contradiction)
+caused-motion,351,premise,The Coast Guard also deployed a boat to the area and conducted an aerial survey of the site by helicopter .
+,351,hypothesis,The Coast Guard caused a boat to change locations by deploying it.
+,351,relation,0 (entailment)
+causative-with-CxN,406,premise,One of the teachers came along and covered her body with a black sheet.
+,406,hypothesis,One of the grieving teachers came along and covered her body with a black sheet.
+,406,relation,1 (neutral)
+causative-with-CxN,407,premise,One of the teachers came along and covered her body with a black sheet.
+,407,hypothesis,There was not a black sheet covering her body after one of the teachers came along.
+,407,relation,2 (contradiction)
+causative-with-CxN,408,premise,One of the teachers came along and covered her body with a black sheet.
+,408,hypothesis,One of the teachers caused her body to have a black sheet on it.
+,408,relation,0 (entailment)
+causative-with-CxN,373,premise,The Grateful Dead have flooded the market with excellent live material.
+,373,hypothesis,The Grateful Dead have put out live recordings of their best concert that took place at a market flooded with fans.
+,373,relation,1 (neutral)
+causative-with-CxN,374,premise,The Grateful Dead have flooded the market with excellent live material.
+,374,hypothesis,The Grateful Dead did not contribute to the market containing excellent live material.
+,374,relation,2 (contradiction)
+causative-with-CxN,375,premise,The Grateful Dead have flooded the market with excellent live material.
+,375,hypothesis,There is excellent live material on the market by The Grateful Dead.
+,375,relation,0 (entailment)
+causative-with-CxN,367,premise,An enormous chandelier filled the room with a stunning display of reflected light.
+,367,hypothesis,The room had a grand crystal chandelier displayed in its center.
+,367,relation,1 (neutral)
+causative-with-CxN,368,premise,An enormous chandelier filled the room with a stunning display of reflected light.
+,368,hypothesis,There is not a stunning display of reflected light in the room.
+,368,relation,2 (contradiction)
+causative-with-CxN,369,premise,An enormous chandelier filled the room with a stunning display of reflected light.
+,369,hypothesis,An enormous chandelier causes the room to contain a stunning display of reflected light.
+,369,relation,0 (entailment)
+comparative-correlative,460,premise,"Now then, the faster that we can do this, the faster we can get on with the game."
+,460,hypothesis,The level of joy with which we can do this is positively correlated with the rate at which we can get on with the game.
+,460,relation,1 (neutral)
+comparative-correlative,461,premise,"Now then, the faster that we can do this, the faster we can get on with the game."
+,461,hypothesis,The rate at which we can do this is positively correlated with the rate at which we can get on with the game.
+,461,relation,0 (entailment)
+comparative-correlative,462,premise,"Now then, the faster that we can do this, the faster we can get on with the game."
+,462,hypothesis,Increasing the amount of time in which we do this will decrease the amount of time until we can get on with the game.
+,462,relation,2 (contradiction)
+comparative-correlative,469,premise,"The more snow, the less danger there is to skiers."
+,469,hypothesis,The temperature of the snow is positively correlated with the danger to skiers.
+,469,relation,1 (neutral)
+comparative-correlative,470,premise,"The more snow, the less danger there is to skiers."
+,470,hypothesis,The amount of snow is negatively correlated with the amount of danger to skiers.
+,470,relation,0 (entailment)
+comparative-correlative,471,premise,"The more snow, the less danger there is to skiers."
+,471,hypothesis,Decreasing the amount of snow will decrease the amount of danger there is to skiers.
+,471,relation,2 (contradiction)
+comparative-correlative,463,premise,"The longer the rain lasted, the more quickly the ramparts melted."
+,463,hypothesis,The temperature of the rain is negatively correlated with the rate at which the ramparts melted.
+,463,relation,1 (neutral)
+comparative-correlative,464,premise,"The longer the rain lasted, the more quickly the ramparts melted."
+,464,hypothesis,The amount of time the rain lasted is positively correlated with the rate at which the ramparts melted.
+,464,relation,0 (entailment)
+comparative-correlative,465,premise,"The longer the rain lasted, the more quickly the ramparts melted."
+,465,hypothesis,Increasing how long the rain lasted would decrease how quickly the ramparts melted.
+,465,relation,2 (contradiction)

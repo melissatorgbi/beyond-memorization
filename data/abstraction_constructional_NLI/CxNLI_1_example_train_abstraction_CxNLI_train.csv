@@ -1,0 +1,73 @@
+CxN Type,Number,P/H/R,Annotation Targets - Gold Standard Relation
+let-alone,1,Premi,"A ceasefire, let alone lasting peace, will take long negotiation."
+,1,hypothesis,"If a ceasefire is acheived through long negotiation, lasting peace will also be achieved."
+,1,relation,1 (neutral)
+let-alone,2,premise,"A ceasefire, let alone lasting peace, will take long negotiation."
+,2,hypothesis,Negotiating lasting peace will take less time than negotiating a ceasefire.
+,2,relation,2 (contradiction)
+let-alone,3,premise,"A ceasefire, let alone lasting peace, will take long negotiation."
+,3,hypothesis,"It will take long negotiation to achieve a ceasefire, and even longer negotiation to achieve lasting peace."
+,3,relation,0 (entailment)
+way-manner,52,premise,We picked out all of the best songs from the tapes and sang our way across the rest of Europe.
+,52,hypothesis,We picked out all of the best songs from the tapes and loudly sang our way across the rest of Europe.
+,52,relation,1 (neutral)
+way-manner,53,premise,We picked out all of the best songs from the tapes and sang our way across the rest of Europe.
+,53,hypothesis,We picked out all of the best songs from the tapes and traveled across the rest of Europe in silence.
+,53,relation,2 (contradiction)
+way-manner,54,premise,We picked out all of the best songs from the tapes and sang our way across the rest of Europe.
+,54,hypothesis,We picked out all of the best songs from the tapes and traveled across the rest of Europe in song.
+,54,relation,0 (entailment)
+resultative,118,premise,Terry PUSHED the door shut.
+,118,hypothesis,Terry closed the door with his side.
+,118,relation,1 (neutral)
+resultative,119,premise,Terry PUSHED the door shut.
+,119,hypothesis,The door was completely shut before Terry pushed it.
+,119,relation,2 (contradiction)
+resultative,120,premise,Terry PUSHED the door shut.
+,120,hypothesis,The door was at least partially open before Terry pushed it.
+,120,relation,0 (entailment)
+conative,166,premise,He looked down and poked at the keyboard.
+,166,hypothesis,He was typing on his computer.
+,166,relation,1 (neutral)
+conative,167,premise,He looked down and poked at the keyboard.
+,167,hypothesis,He looked down and poked in a direction away from the keyboard.
+,167,relation,2 (contradiction)
+conative,168,premise,He looked down and poked at the keyboard.
+,168,hypothesis,He looked down and made poking motions in the direction of the keyboard.
+,168,relation,0 (entailment)
+intransitive-motion,310,premise,IRNA reported that Gomshadzehi killed a policeman and then ESCAPED to Dubai in the United Arab Emirates while trafficking drugs in 2003.
+,310,hypothesis,There is a well-known criminal named Gomshadzehi who easily escaped to Dubai while trafficking drugs in 2003.
+,310,relation,1 (neutral)
+intransitive-motion,311,premise,IRNA reported that Gomshadzehi killed a policeman and then ESCAPED to Dubai in the United Arab Emirates while trafficking drugs in 2003.
+,311,hypothesis,IRNA reported that Gomshadzehi killed a policeman and then remained in Dubai while trafficking drugs in 2003.
+,311,relation,2 (contradiction)
+intransitive-motion,312,premise,IRNA reported that Gomshadzehi killed a policeman and then ESCAPED to Dubai in the United Arab Emirates while trafficking drugs in 2003.
+,312,hypothesis,IRNA reported that Gomshadzehi killed a policeman and then changed locations to Dubai in the United Arab Emirates while trafficking drugs in 2003.
+,312,relation,0 (entailment)
+caused-motion,316,premise,I THREW the stone across the river.
+,316,hypothesis,I like to skip stones across the river.
+,316,relation,1 (neutral)
+caused-motion,317,premise,I THREW the stone across the river.
+,317,hypothesis,The stone did not move.
+,317,relation,2 (contradiction)
+caused-motion,318,premise,I THREW the stone across the river.
+,318,hypothesis,I caused the stone to move across the river by throwing it.
+,318,relation,0 (entailment)
+causative-with-CxN,406,premise,One of the teachers came along and covered her body with a black sheet.
+,406,hypothesis,One of the grieving teachers came along and covered her body with a black sheet.
+,406,relation,1 (neutral)
+causative-with-CxN,407,premise,One of the teachers came along and covered her body with a black sheet.
+,407,hypothesis,There was not a black sheet covering her body after one of the teachers came along.
+,407,relation,2 (contradiction)
+causative-with-CxN,408,premise,One of the teachers came along and covered her body with a black sheet.
+,408,hypothesis,One of the teachers caused her body to have a black sheet on it.
+,408,relation,0 (entailment)
+comparative-correlative,460,premise,"Now then, the faster that we can do this, the faster we can get on with the game."
+,460,hypothesis,The level of joy with which we can do this is positively correlated with the rate at which we can get on with the game.
+,460,relation,1 (neutral)
+comparative-correlative,461,premise,"Now then, the faster that we can do this, the faster we can get on with the game."
+,461,hypothesis,The rate at which we can do this is positively correlated with the rate at which we can get on with the game.
+,461,relation,0 (entailment)
+comparative-correlative,462,premise,"Now then, the faster that we can do this, the faster we can get on with the game."
+,462,hypothesis,Increasing the amount of time in which we do this will decrease the amount of time until we can get on with the game.
+,462,relation,2 (contradiction)

@@ -1,0 +1,43 @@
+CxN Type	Number	P/H/R	Annotation Targets - Gold Standard Relation	Original Agr?	Changed?
+conative	16	premise	He was assigned to teach at a school in the small rural village.	Y	
+	16	hypothesis	The school was the target of his teaching.		
+	16	relation	2 (contradiction)		
+conative	17	premise	Other units exploded at this complex.	Y	
+	17	hypothesis	This complex was not the target of the exploding motion.		
+	17	relation	1 (neutral)		
+intransitive-motion	25	premise	They are sorting through the sludge and the mud to recover any part of their former life.	Y	
+	25	hypothesis	"They are sorting, staying in a static location."		
+	25	relation	1 (neutral)		
+intransitive-motion	30	premise	He spoke to the workers on the street corner.	Y	
+	30	hypothesis	He changed locations by speaking.		
+	30	relation	2 (contradiction)		
+causative-with	33	premise	I can use a mouse with my left hand.	N	Y
+	33	hypothesis	My left hand is not contained in the mouse.		
+	33	relation	0 (entailment)		
+resultative	38	premise	"Professor Hikmahanto Juwana , Chairman of the ASLI Board of Governors , and Dean at the Faculty of Law , University of Indonesia , addressed the participants next ."		
+	38	hypothesis	Professor Hikmahanto Juwana did not cause the participants to be next by addressing them.		
+	38	relation	0 (entailment)		
+resultative	40	premise	Give her reasons to continually find you stimulating .		
+	40	hypothesis	You were stimulating before she found you.		
+	40	relation	1 (neutral)		
+resultative	51	premise	And the disenfranchised want them perfect because we have so few .	COCA_News	
+	51	hypothesis	The disenchfranchised cause them to be perfect by wanting them.		
+	51	relation	2 (contradiction)		
+causative-with	63	premise	"Second , and perhaps more important , he has raced this year with Lasix , a controversial diuretic that is prescribed as a treatment for bleeding but is banned in New York ."	COCA_News	
+	63	hypothesis	He caused this year to contain Lasix.		
+	63	relation	2 (contradiction)		
+conative	72	premise	"I watch the women, their legs crossed at the ankles, try to look as if they don't sweat at all."	COCA_News	
+	72	hypothesis	Their ankles were not the target of their crossing motion.		
+	72	relation	0 (entailment)		
+intransitive-motion	93	premise	"At Stanford , such fears erupted into angry confrontations last administration and overly ambitious building program were endangering the school 's scientific competitiveness ."	COCA_News	
+	93	hypothesis	"At Stanford, such fears did not change locations."		
+	93	relation	0 (entailment)		
+caused-motion	94	premise	"I became enraged , to the point where I said things to Sulaiman I should n't have ."	COCA_News	
+	94	hypothesis	I caused things to change locations by saying them.		
+	94	relation	2 (contradiction)		
+caused-motion	96	premise	I had to prove myself to him .	COCA_News	
+	96	hypothesis	I did not cause myself to change locations.		
+	96	relation	1 (neutral)		
+caused-motion	107	premise	"Still , Stanford and other universities are resigning themselves to an environment in which they will no longer have the freedom they once had to build laboratories and charge costs to the Government ."	COCA_News	
+	107	hypothesis	Stanford and other universities are staying in the same place.		
+	107	relation	0 (entailment)		

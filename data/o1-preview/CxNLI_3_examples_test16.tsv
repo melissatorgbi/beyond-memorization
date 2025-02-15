@@ -1,0 +1,49 @@
+CxN Type	Number	P/H/R	Annotation Targets - Gold Standard Relation
+let-alone	11	premise	"None of these arguments is notably strong, let alone conclusive."
+	11	hypothesis	A conclusive argument is weaker than a notably strong argument.
+	11	relation	2 (contradiction)
+let-alone	33	premise	"Beecher's reputation as a preacher, let alone as a Man of God, was not universally accepted."
+	33	hypothesis	Beecher's reputation as a preacher was easier to accept than his reputation as a Man of God.
+	33	relation	0 (entailment)
+way-manner	48	premise	Thus a miner who slipped from the worn and greasy rungs was liable to fall a long way and a dropped tool could clatter its way down to cause death or injury to some fellow below.
+	48	hypothesis	A dropped tool would fall in a noisy manner to cause death or injury to some fellow below.
+	48	relation	0 (entailment)
+way-manner	66	premise	It was an easy matter to buy my way on to the same flight.
+	66	hypothesis	It was easy to get onto the same flight through buying.
+	66	relation	0 (entailment)
+resultative	102	premise	It BROKE apart.
+	102	hypothesis	It's breaking caused it to come apart.
+	102	relation	0 (entailment)
+resultative	143	premise	He TICKLED her silly.
+	143	hypothesis	Her feeling silly was not caused by tickling.
+	143	relation	2 (contradiction)
+conative	220	premise	Jake sipped at the jug and didn't answer.
+	220	hypothesis	Jake was quiet when he drinks.
+	220	relation	1 (neutral)
+conative	225	premise	Phil nibbled at the cake.
+	225	hypothesis	The cake was the target of his nibbling.
+	225	relation	0 (entailment)
+intransitive-motion	300	premise	I'll bet the email lies are FLYING back and forth.
+	300	hypothesis	I'll bet the email lies are not remaining in one place.
+	300	relation	0 (entailment)
+intransitive-motion	308	premise	The 23 frantically SCRAMBLED to the rear of the sub.
+	308	hypothesis	The 23 did not move to the rear of the sub.
+	308	relation	2 (contradiction)
+caused-motion	356	premise	"China confirmed on January 23, 2007 after 12 days of silence that China had FIRED a guided missile into space to destroy one of its satellites."
+	356	hypothesis	"China confirmed on January 23, 2007 after 12 days of silence that China had not caused a guided missile to go into space by firing it."
+	356	relation	2 (contradiction)
+caused-motion	360	premise	"Chinese officials stated on May 14, 2007 that China had LAUNCHED a Chinese manufactured communications satellite into orbit on behalf of Nigeria."
+	360	hypothesis	"Chinese officials stated on May 14, 2007 that a Chinese manufactured communications satellite had not stayed in the same place."
+	360	relation	0 (entailment)
+causative-with-CxN	384	premise	The Chinese already have flooded the market with juice-grade apples.
+	384	hypothesis	The market contains juice-grade apples.
+	384	relation	0 (entailment)
+causative-with-CxN	388	premise	He lay on the bed and covered his face with a blanket.
+	388	hypothesis	He covered himself with the blanket in bed out of embarrassment.
+	388	relation	1 (neutral)
+comparative-correlative	454	premise	"The more bureaucrats run charities, the more people who need them."
+	454	hypothesis	Increasing the amount of money that bureaucrats donate to charities will increase the number of people who need charities.
+	454	relation	1 (neutral)
+comparative-correlative	456	premise	"The more bureaucrats run charities, the more people who need them."
+	456	hypothesis	The amount of bureaucrats who run charities is negatively correlated with the amount of people who need charities.
+	456	relation	2 (contradiction)

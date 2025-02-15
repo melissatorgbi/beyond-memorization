@@ -1,0 +1,313 @@
+CxN Type,Number,P/H/R,Annotation Targets - Gold Standard Relation
+let-alone,24.0,premise,"It's unsurprising that such an attitude failed to produce competent screenwriters, let alone exciting ones."
+,24.0,hypothesis,An attitude that produces exciting screenwriters can also produce competent ones.
+,24.0,relation,0 (entailment)
+let-alone,11.0,premise,"None of these arguments is notably strong, let alone conclusive."
+,11.0,hypothesis,A conclusive argument is weaker than a notably strong argument.
+,11.0,relation,2 (contradiction)
+let-alone,23.0,premise,"It's unsurprising that such an attitude failed to produce competent screenwriters, let alone exciting ones."
+,23.0,hypothesis,An attitude that produces competent screenwriters is more surprising than an attitude that produces exciting screenwriters
+,23.0,relation,2 (contradiction)
+let-alone,9.0,premise,"I would be distressed to hear of any ladies reading it, let alone a girl of your tender years and experience."
+,9.0,hypothesis,I would be more distressed to hear of a girl of your tender years and experience reading it than I would be to hear of any ladies reading it.
+,9.0,relation,0 (entailment)
+let-alone,32.0,premise,"Beecher's reputation as a preacher, let alone as a Man of God, was not universally accepted."
+,32.0,hypothesis,Beecher's reputation as a Man of God was easier to accept than his reputation as a preacher.
+,32.0,relation,2 (contradiction)
+let-alone,31.0,premise,"Beecher's reputation as a preacher, let alone as a Man of God, was not universally accepted."
+,31.0,hypothesis,"If Beecher had a reputation as a preacher, he also has a reputation as a Man of God."
+,31.0,relation,1 (neutral)
+let-alone,13.0,premise,"Even so, such vague promises are no grounds for satisfaction, let alone complacency."
+,13.0,hypothesis,"If a promise is grounds for satisfaction, it is also grounds for complacency."
+,13.0,relation,1 (neutral)
+let-alone,25.0,premise,"How many modern Prime Ministers could recall such exploits in their past, let alone dare to boast about them?"
+,25.0,hypothesis,Prime ministers that can recall such exploits in their past also dare to boast about them.
+,25.0,relation,1 (neutral)
+let-alone,18.0,premise,"Mr Brown claimed that the Government had failed to face the failures of the present, let alone the challenges of the future."
+,18.0,hypothesis,Facing the failures of the present is easier for a government than facing the challenges of the future
+,18.0,relation,0 (entailment)
+let-alone,8.0,premise,"I would be distressed to hear of any ladies reading it, let alone a girl of your tender years and experience."
+,8.0,hypothesis,I would be equally distressed to hear of any ladies reading it as I would be to hear of a girl of your tender years and experience reading it.
+,8.0,relation,2 (contradiction)
+let-alone,4.0,premise,It is difficult enough for an individual to be consistent let alone a society.
+,4.0,hypothesis,"If an individual is consistent, a society might also be consistent."
+,4.0,relation,1 (neutral)
+let-alone,26.0,premise,"How many modern Prime Ministers could recall such exploits in their past, let alone dare to boast about them?"
+,26.0,hypothesis,It is more likely for modern Prime Ministers to dare to boast about such exploits than it is that they could recall them.
+,26.0,relation,2 (contradiction)
+let-alone,14.0,premise,"Even so, such vague promises are no grounds for satisfaction, let alone complacency."
+,14.0,hypothesis,Vague promises that are grounds for complacency are weaker than those that are grounds for satisfaction.
+,14.0,relation,2 (contradiction)
+way-manner,74.0,premise,The practical man thought his way through these apparent obstacles.
+,74.0,hypothesis,The practical man overcame these apparent obstacles by giving them no thought.
+,74.0,relation,2 (contradiction)
+way-manner,71.0,premise,Constance squeezed her way down the platform looking for the first-class carriages.
+,71.0,hypothesis,Constance traveled down the platform without squeezing.
+,71.0,relation,2 (contradiction)
+way-manner,64.0,premise,It was an easy matter to buy my way on to the same flight.
+,64.0,hypothesis,It was an easy matter to buy something on my way to the same flight.
+,64.0,relation,1 (neutral)
+way-manner,36.0,premise,"As she felt her way forward, suddenly a knight on horseback galloped past her."
+,36.0,hypothesis,"As she was moving forward, a knight on horseback went past her."
+,36.0,relation,0 (entailment)
+way-manner,50.0,premise,"She stared from one to the other, feeling apprehension shiver its cold way along her spine."
+,50.0,hypothesis,"She stared from one to the other, feeling apphrension move down her spine warmly."
+,50.0,relation,2 (contradiction)
+way-manner,35.0,premise,"As she felt her way forward, suddenly a knight on horseback galloped past her."
+,35.0,hypothesis,She moved forward without feeling.
+,35.0,relation,2 (contradiction)
+way-manner,72.0,premise,Constance squeezed her way down the platform looking for the first-class carriages.
+,72.0,hypothesis,Constance traveled down the platform by squeezing.
+,72.0,relation,0 (entailment)
+way-manner,34.0,premise,"As she felt something on her way forward, suddenly a knight on horseback galloped past her."
+,34.0,hypothesis,She was moving forward when a knight on horseback almost ran her over.
+,34.0,relation,1 (neutral)
+way-manner,48.0,premise,Thus a miner who slipped from the worn and greasy rungs was liable to fall a long way and a dropped tool could clatter its way down to cause death or injury to some fellow below.
+,48.0,hypothesis,A dropped tool would fall in a noisy manner to cause death or injury to some fellow below.
+,48.0,relation,0 (entailment)
+way-manner,37.0,premise,"If this were to happen, would it not be unfair that other prisoners that do not have the means to pay and have committed 'lesser' crimes have to serve longer than those that can 'BUY' their way out of jail, so to speak?"
+,37.0,hypothesis,"If this were to happen, would it not be unfair that other prisoners that do not have the means to pay and have committed 'lesser' crimes have to serve longer than those that can buy something on their way out of jail?"
+,37.0,relation,1 (neutral)
+way-manner,49.0,premise,"She stared from one to the other, feeling apprehension shiver its cold way along her spine."
+,49.0,hypothesis,"She stared from one to the other, feeling apprehension at their suggestion that she go out without a coat."
+,49.0,relation,1 (neutral)
+way-manner,75.0,premise,The practical man thought his way through these apparent obstacles.
+,75.0,hypothesis,The practical man overcame these apparent obstacles by thinking.
+,75.0,relation,0 (entailment)
+way-manner,63.0,premise,I yawned my way back to the Narrow Neck.
+,63.0,hypothesis,I yawned at least once on my journey back to the Narrow Neck.
+,63.0,relation,0 (entailment)
+resultative,102.0,premise,It BROKE apart.
+,102.0,hypothesis,It's breaking caused it to come apart.
+,102.0,relation,0 (entailment)
+resultative,85.0,premise,This nice man probably just wanted Mother to KISS him unconscious.
+,85.0,hypothesis,This nice man has a mother who will kiss him to the point of unconsciousness.
+,85.0,relation,1 (neutral)
+resultative,138.0,premise,Harry SHOT Sam dead.
+,138.0,hypothesis,Sam died from the shot Harry took.
+,138.0,relation,0 (entailment)
+resultative,145.0,premise,He PAINTED his house a bright shade of red.
+,145.0,hypothesis,His house was previously a darker color.
+,145.0,relation,1 (neutral)
+resultative,125.0,premise,She COUGHED herself sick.
+,125.0,hypothesis,Her coughing had no effect on her sick feeling.
+,125.0,relation,2 (contradiction)
+resultative,126.0,premise,She COUGHED herself sick.
+,126.0,hypothesis,She did not feel as sick before coughing.
+,126.0,relation,0 (entailment)
+resultative,144.0,premise,He TICKLED her silly.
+,144.0,hypothesis,Her feeling silly was caused by tickling.
+,144.0,relation,0 (entailment)
+resultative,129.0,premise,The jackhammer POUNDED us deaf.
+,129.0,hypothesis,Our deafness was a result of the jackhammer's pounding.
+,129.0,relation,0 (entailment)
+resultative,106.0,premise,He CRIED himself asleep.
+,106.0,hypothesis,He was saddened by something before bed.
+,106.0,relation,1 (neutral)
+resultative,76.0,premise,"Passing the cord through the hole , I pulled it tight ."
+,76.0,hypothesis,The small cord easily fit through the hole.
+,76.0,relation,1 (neutral)
+resultative,116.0,premise,Terry WIPED the table clean.
+,116.0,hypothesis,The table was not clean after Terry wiped it.
+,116.0,relation,2 (contradiction)
+resultative,88.0,premise,I had BRUSHED my hair very smooth.
+,88.0,hypothesis,I had frantically brushed my hair very smooth.
+,88.0,relation,1 (neutral)
+resultative,96.0,premise,The tools were WIPED clean.
+,96.0,hypothesis,The tools were clean because they were wiped.
+,96.0,relation,0 (entailment)
+conative,223.0,premise,Phil nibbled at the cake.
+,223.0,hypothesis,Phil nibbled at the cake gratefully.
+,223.0,relation,1 (neutral)
+conative,229.0,premise,"He kissed her in return, then brushed at the lipstick he knew she had left behind."
+,229.0,hypothesis,"She had worn lipstick that day, not knowing she would be kissed."
+,229.0,relation,1 (neutral)
+conative,221.0,premise,Jake sipped at the jug and didn't answer.
+,221.0,hypothesis,The jug was not the target of Jake's sipping.
+,221.0,relation,2 (contradiction)
+conative,205.0,premise,He stabbed at the last part of the equation.
+,205.0,hypothesis,The last part of the equation was the most complex.
+,205.0,relation,1 (neutral)
+conative,177.0,premise,Marco lost his balance and grabbed at the ladder railing.
+,177.0,hypothesis,Marco lost his balance and grabbed in the direction of the ladder railing.
+,177.0,relation,0 (entailment)
+conative,215.0,premise,I sipped at the Heineken.
+,215.0,hypothesis,The Heineken was not the target of my sipping.
+,215.0,relation,2 (contradiction)
+conative,206.0,premise,He stabbed at the last part of the equation.
+,206.0,hypothesis,The last part of the equation was not the target of his stabbing.
+,206.0,relation,2 (contradiction)
+conative,180.0,premise,I pushed at the springs with the palms of my hands.
+,180.0,hypothesis,The springs were the target of my pushing motion.
+,180.0,relation,0 (entailment)
+conative,163.0,premise,Luke kicked at the chair leg with the toe of his leather half-boot.
+,163.0,hypothesis,Luke tested the durability of the chair with his shoe.
+,163.0,relation,1 (neutral)
+conative,161.0,premise,Henry Edison kicked at the tire on the old automobile.
+,161.0,hypothesis,Henry Edison made no kicking motion in the direction of the tire.
+,161.0,relation,2 (contradiction)
+conative,234.0,premise,"He studied her face, brushed at the hair that tumbled over her shoulders."
+,234.0,hypothesis,"As he studied her face, he made a brushing movement towards the hair tumbling over her shoulders."
+,234.0,relation,0 (entailment)
+conative,179.0,premise,I pushed at the springs with the palms of my hands.
+,179.0,hypothesis,The springs were not the target of my pushing.
+,179.0,relation,2 (contradiction)
+conative,220.0,premise,Jake sipped at the jug and didn't answer.
+,220.0,hypothesis,Jake was quiet when he drinks.
+,220.0,relation,1 (neutral)
+intransitive-motion,260.0,premise,"Thousands of mine workers and supporters plan to MARCH around the headquarters of Peabody Energy in St. Louis this coming Tuesday, Sept. 24th."
+,260.0,hypothesis,"Thousands of mine workers and supporters plan to march in place this coming Tuesday, Sept. 24th."
+,260.0,relation,2 (contradiction)
+intransitive-motion,272.0,premise,We DROVE past the hotel.
+,272.0,hypothesis,"We drove, not changing locations."
+,272.0,relation,2 (contradiction)
+intransitive-motion,314.0,premise,Armed troops MARCHED to the substations and turned the power back on.
+,314.0,hypothesis,Armed troops marched to a location that was not the substations and turned the power back on.
+,314.0,relation,2 (contradiction)
+intransitive-motion,271.0,premise,We DROVE past the hotel.
+,271.0,hypothesis,We DROVE all the way to the next city.
+,271.0,relation,1 (neutral)
+intransitive-motion,262.0,premise,"He was beginning to be afraid he had come to the wrong planet , when a coil of gold , the color of the moonlight , FLASHED across the sand ."
+,262.0,hypothesis,"The man had vistied a totally different planet covered in sand that had looked like the wrong one, when a light flashed across the sand."
+,262.0,relation,1 (neutral)
+intransitive-motion,298.0,premise,I'll bet the email lies are FLYING back and forth.
+,298.0,hypothesis,There are also lies flying back and forth over the phone.
+,298.0,relation,1 (neutral)
+intransitive-motion,281.0,premise,I COMMUTE back and forth to work on the Huguenot Trail .
+,281.0,hypothesis,I commute by not moving on Huguenot Trail.
+,281.0,relation,2 (contradiction)
+intransitive-motion,254.0,premise,"People who SPILLED over from the ""protest"" attacked their car as it went down Regent Street."
+,254.0,hypothesis,"People who stayed in a static location in the ""protest"" attacked their car as it went down Regent Street."
+,254.0,relation,2 (contradiction)
+intransitive-motion,296.0,premise,But it's all FLYING right over your head.
+,296.0,hypothesis,"But it's all flying, staying in the same place."
+,296.0,relation,2 (contradiction)
+intransitive-motion,246.0,premise,Careful this floor board squeaks...cant SNEAK in late down this hallway
+,246.0,hypothesis,Careful this floor board squeaks... cant change locations late down this hallway
+,246.0,relation,0 (entailment)
+intransitive-motion,256.0,premise,"Marchers will PROCEED on Pine St. to Broadway, to Market."
+,256.0,hypothesis,Marchers will proceed on Market until they reach the capital building.
+,256.0,relation,1 (neutral)
+intransitive-motion,264.0,premise,"He was beginning to be afraid he had come to the wrong planet , when a coil of gold , the color of the moonlight , FLASHED across the sand ."
+,264.0,hypothesis,"He was beginning to be afraid he had come to the wrong planet, when a coil of gold, the color of the moonlight, traveled from one location to another."
+,264.0,relation,0 (entailment)
+intransitive-motion,308.0,premise,The 23 frantically SCRAMBLED to the rear of the sub.
+,308.0,hypothesis,The 23 did not move to the rear of the sub.
+,308.0,relation,2 (contradiction)
+caused-motion,346.0,premise,The Pakistan-born man was then DEPORTED to the United Kingdom on 070713.
+,346.0,hypothesis,The man from Pakistan went against his will to the United Kingdom for a crime committed.
+,346.0,relation,1 (neutral)
+caused-motion,321.0,premise,The Vietnam News Agency said Australian national Tran Van Thanh was arrested on 30 June 2003 in the southern Vietnam city of dalat for Tran's involvement in a network SMUGGLING heroin from Cambodia to Australia via Vietnam.
+,321.0,hypothesis,The Vietnam News Agency said Australian national Tran Van Thanh was arrested on 30 June 2003 in the southern Vietnam city of dalat for Tran's involvement in a network causing heroin to move to Australia by smuggling it.
+,321.0,relation,0 (entailment)
+caused-motion,339.0,premise,Mealman works in construction and DROVE his 16-foot trailer to the area to help people salvage what they can from their homes.
+,339.0,hypothesis,Mealman’s trailer changed locations through driving.
+,339.0,relation,0 (entailment)
+caused-motion,353.0,premise,Mexican football club owner and 4 team members are charged with TRAFFICKING cocaine and marijuana from Colombia to the United States.
+,353.0,hypothesis,Mexican football club owner and 4 team members are charged with keeping cocaine and marijuana in a static location.
+,353.0,relation,2 (contradiction)
+caused-motion,352.0,premise,Mexican football club owner and 4 team members are charged with TRAFFICKING cocaine and marijuana from Colombia to the United States.
+,352.0,hypothesis,Mexican football club owner and 4 team members are charged with TRAFFICKING the very highest quality cocaine and marijuana from Colombia.
+,352.0,relation,1 (neutral)
+caused-motion,358.0,premise,"Chinese officials stated on May 14, 2007 that China had LAUNCHED a Chinese manufactured communications satellite into orbit on behalf of Nigeria."
+,358.0,hypothesis,It was reported on the Chinese news in May of 2007 that China had sent a very powerful Chinese satellite into space to fulfill Nigeria's needs of communication.
+,358.0,relation,1 (neutral)
+caused-motion,343.0,premise,Australian Schapelle Corby was convicted of TRAFFICKING marijuana into Bali and jailed for 20 years.
+,343.0,hypothesis,Austrialian Schapelle Corby was unexpectedly convicted of trafficking marijuana into Bali and jailed for 20 years.
+,343.0,relation,1 (neutral)
+caused-motion,323.0,premise,Myanmar has no reported H5N1 cases but Indian officials suspect that poultry could be SMUGGLED through Myanmar from Thailand.
+,323.0,hypothesis,Myanmar has no reported H5N1 cases but Indian officials suspect that poultry will not be moved from Myanmar to Thailand.
+,323.0,relation,2 (contradiction)
+caused-motion,337.0,premise,Mealman works in construction and DROVE his 16-foot trailer to the area to help people salvage what they can from their homes.
+,337.0,hypothesis,"Mealman works in construction and DROVE his 16-foot trailer to the area to help people salvage valuables, mostly jewelry and tech devices, from their homes."
+,337.0,relation,1 (neutral)
+caused-motion,347.0,premise,The Pakistan-born man was then DEPORTED to the United Kingdom on 070713.
+,347.0,hypothesis,The Pakistan-born man was then deported to somewhere other than the United Kingdom.
+,347.0,relation,2 (contradiction)
+caused-motion,340.0,premise,"Pope was FLOWN to the U.S. military base at Ramstein, Germany."
+,340.0,hypothesis,"Pope was FLOWN to the U.S. military base in Germany, where he stayed for weeks."
+,340.0,relation,1 (neutral)
+caused-motion,330.0,premise,But we also exported nickel to the United States .
+,330.0,hypothesis,We caused nickel to change locations by exporting it.
+,330.0,relation,0 (entailment)
+caused-motion,327.0,premise,"After the seven hundred passengers on the train were stranded for two hours , they were GUIDED through the tunnels to a safe place ."
+,327.0,hypothesis,"After the seven hundred passengers on the train were stranded for two hours, they were moved through the tunnels to a safe place by being guided."
+,327.0,relation,0 (entailment)
+causative-with-CxN,411.0,premise,Howze filled her house with music and color.
+,411.0,hypothesis,There was music and color in Howze’s house.
+,411.0,relation,0 (entailment)
+causative-with-CxN,421.0,premise,A blizzard soon covered their bodies with snow.
+,421.0,hypothesis,Blizzards can be fun for children playing in the snow.
+,421.0,relation,1 (neutral)
+causative-with-CxN,386.0,premise,Rosa covered his face with kisses.
+,386.0,hypothesis,His face had no kisses on it.
+,386.0,relation,2 (contradiction)
+causative-with-CxN,370.0,premise,"Freshly ground coffee beans filled the room with a seductive, earthy aroma."
+,370.0,hypothesis,"A large amount of coffee beans filled the room with a seductive, earthy aroma."
+,370.0,relation,1 (neutral)
+causative-with-CxN,372.0,premise,"Freshly ground coffee beans filled the room with a seductive, earthy aroma."
+,372.0,hypothesis,"There was a seductive, earthy aroma in the room."
+,372.0,relation,0 (entailment)
+causative-with-CxN,364.0,premise,Dude has filled the room with flowers and teddy bears and cheesy cards.
+,364.0,hypothesis,A man filled the room with sweet things for his significant other.
+,364.0,relation,1 (neutral)
+causative-with-CxN,365.0,premise,Dude has filled the room with flowers and teddy bears and cheesy cards.
+,365.0,hypothesis,The room does not contain flowers and teddy bears and cheesy cards.
+,365.0,relation,2 (contradiction)
+causative-with-CxN,409.0,premise,Howze filled her house with music and color.
+,409.0,hypothesis,Howze was the best roommate she had ever had.
+,409.0,relation,1 (neutral)
+causative-with-CxN,397.0,premise,"Susan trapped him, filled his head with lies."
+,397.0,hypothesis,"Susan was a trapper by trade, specializing in mink hats."
+,397.0,relation,1 (neutral)
+causative-with-CxN,381.0,premise,Saudi flooded the market with cheap oil then so they could recover their market share.
+,381.0,hypothesis,Saudi caused the market to contain cheap oil.
+,381.0,relation,0 (entailment)
+causative-with-CxN,382.0,premise,The Chinese already have flooded the market with juice-grade apples.
+,382.0,hypothesis,"The Chinese have the largest, juiciest apples on the market."
+,382.0,relation,1 (neutral)
+causative-with-CxN,417.0,premise,The waiter filled her glass with white wine.
+,417.0,hypothesis,There is white whine in her glass.
+,417.0,relation,0 (entailment)
+causative-with-CxN,363.0,premise,Kevin lifted the trumpet and filled the room with happy noise.
+,363.0,hypothesis,Kevin caused the room to contain happy noise.
+,363.0,relation,0 (entailment)
+comparative-correlative,456.0,premise,"The more bureaucrats run charities, the more people who need them."
+,456.0,hypothesis,The amount of bureaucrats who run charities is negatively correlated with the amount of people who need charities.
+,456.0,relation,2 (contradiction)
+comparative-correlative,455.0,premise,"The more bureaucrats run charities, the more people who need them."
+,455.0,hypothesis,Increasing the number of bureaucrats who run charities will increase the amount of people who need charities.
+,455.0,relation,0 (entailment)
+comparative-correlative,458.0,premise,"The more expensive the decision, the more will senior management be involved."
+,458.0,hypothesis,There is a positive correlation between the level of expense of the decision and the level of involvement by senior management.
+,458.0,relation,0 (entailment)
+comparative-correlative,439.0,premise,"The longer he is around, the more miserable I will be."
+,439.0,hypothesis,"The longer he is around, the louder I will be."
+,439.0,relation,1 (neutral)
+comparative-correlative,444.0,premise,"The more I studied, the less I understood."
+,444.0,hypothesis,There is a positive correlation between the amount I studied and the amount I understood.
+,444.0,relation,2 (contradiction)
+comparative-correlative,445.0,premise,"It seems the older the patient, the less effective the drug."
+,445.0,hypothesis,Increasing the level of exercise of the patient will decrease the level of effectiveness of the drug.
+,445.0,relation,1 (neutral)
+comparative-correlative,447.0,premise,"It seems the older the patient, the less effective the drug."
+,447.0,hypothesis,Increasing the age of the patient will increase the level of effectiveness of the drug.
+,447.0,relation,2 (contradiction)
+comparative-correlative,443.0,premise,"The more I studied, the less I understood."
+,443.0,hypothesis,Increasing the amount I studied decreases the amount I understood.
+,443.0,relation,0 (entailment)
+comparative-correlative,446.0,premise,"It seems the older the patient, the less effective the drug."
+,446.0,hypothesis,The age of the patient is negatively correlated with the effectiveness of the drug.
+,446.0,relation,0 (entailment)
+comparative-correlative,438.0,premise,"The harder they come, the harder they fall."
+,438.0,hypothesis,Increasing how hard they come will decrease how hard they fall.
+,438.0,relation,2 (contradiction)
+comparative-correlative,473.0,premise,"The more they work, the more I will pay them."
+,473.0,hypothesis,Increasing the amount they work will increase the amount I pay them.
+,473.0,relation,0 (entailment)
+comparative-correlative,448.0,premise,"Applied to health care, the longer we wait for it the worse off we are and the longer we put it off the longer it will take to fine tune it."
+,448.0,hypothesis,The amount of time we wait for it is positively correlated with the expenses of healthcare.
+,448.0,relation,1 (neutral)
+comparative-correlative,459.0,premise,"The more expensive the decision, the more will senior management be involved."
+,459.0,hypothesis,Increasing the expense of the decision will decrease the level of involvement by senior management.
+,459.0,relation,2 (contradiction)
