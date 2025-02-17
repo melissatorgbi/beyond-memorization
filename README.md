@@ -1,6 +1,6 @@
 # Beyond Memorization: Assessing Semantic Generalization in Large Language Models Using Phrasal Constructions
 
-This repository contains the data, code and prompts for the paper: Beyond Memorization: Assessing Semantic Generalization in Large Language Models Using Phrasal Constructions.
+This repository contains the data, code and prompts for the paper "Beyond Memorization: Assessing Semantic Generalization in Large Language Models Using Phrasal Constructions".
 
 The experiments can be run using runExperiments.py. The file is annotated with comments and examples to let you know how to customise the code for each experiment.
 All the data can be found in the "data" directory. Additionally, the data to run each experiment from the paper is tabulated below.
