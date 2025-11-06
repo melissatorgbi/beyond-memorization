@@ -40,4 +40,5 @@ caused-motion	96	premise	I had to prove myself to him .	COCA_News
 	96	relation	1 (neutral)		
 caused-motion	107	premise	"Still , Stanford and other universities are resigning themselves to an environment in which they will no longer have the freedom they once had to build laboratories and charge costs to the Government ."	COCA_News	
 	107	hypothesis	Stanford and other universities are staying in the same place.		
+
 	107	relation	0 (entailment)		
