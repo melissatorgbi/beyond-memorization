@@ -9,7 +9,7 @@ from openai import OpenAI
 
 #prompts are stored as a list in a separate python file for ease of readbility and ease of changability, without having to touch this main code
 from prompts import CxNLI_prompts
-from prompts import CxReasoning_prompts
+#from prompts import CxReasoning_prompts
 
 from tqdm            import tqdm
 from sklearn.metrics import f1_score

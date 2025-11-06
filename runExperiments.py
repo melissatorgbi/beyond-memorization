@@ -1,4 +1,4 @@
-from experimentSetup import runTests_NLI, runTests_reasoning
+from experimentSetup import runTests_NLI
 
 if __name__ == '__main__' :
     openai_completion_style = "ChatCompletion"
@@ -26,7 +26,3 @@ if __name__ == '__main__' :
         # Running NLI
         tester = runTests_NLI( test_data, train_data, output_directory, openai_completion_style, api_path, train_data_version)
         tester.get_all(model, prompt_number, experiment_name, temperature)
-    elif task.lower() == "reasoning":
-        # Running reasoning
-        tester = runTests_reasoning( test_data, output_directory, openai_completion_style, api_path, test_data_version )
-        tester.get_all( model, prompt_number, experiment_name, temperature)
